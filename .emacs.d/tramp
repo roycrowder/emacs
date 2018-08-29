@@ -1,0 +1,22 @@
+;; -*- emacs-lisp -*- <17/11/10 13:26:37 c:/Users/roy3/AppData/Roaming/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["plink" nil "projectx-django" nil nil]
+  ("uname" "Linux 3.10.0-693.5.2.el7.x86_64")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/ec2-user")
+  ("file-exists" "test -e")
+  ("readlink" "\\readlink")
+  ("stat" nil)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("id" "/usr/bin/id")
+  ("gid-string" "ec2-user"))
+ (["plink" nil "plink" nil nil]
+  nil))
