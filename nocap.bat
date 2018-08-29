@@ -1,0 +1,1 @@
+C:\Users\roy\uncap.exe 0x14:0xa2
